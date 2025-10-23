@@ -1,6 +1,6 @@
 name = "cupynumeric_jll"
 uuid = "2862d674-414d-5b0b-a494-b21f8deca547"
-version = "25.5.0+0"
+version = "25.5.0+1"
 
 [deps]
 legate_jll = "e95fb1d3-fb9e-51b5-bdb8-1a812408cac9"
