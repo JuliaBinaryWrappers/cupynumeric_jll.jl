@@ -7,5 +7,5 @@ Base.include(@__MODULE__, joinpath("..", ".pkg", "platform_augmentation.jl"))
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("cupynumeric")
-JLLWrappers.@generate_main_file("cupynumeric", UUID("2862d674-414d-5b0b-a494-b21f8deca547"))
+JLLWrappers.@generate_main_file("cupynumeric", Base.UUID("2862d674-414d-5b0b-a494-b21f8deca547"))
 end  # module cupynumeric_jll
