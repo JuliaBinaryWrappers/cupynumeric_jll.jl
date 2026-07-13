@@ -2,23 +2,23 @@
 arch = "x86_64"
 cuda = "none"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03634d7cf4b6ead76bd302bc84a049b4a48585e5"
+git-tree-sha1 = "2412d2bfb7a44d372ef84da8b9eb1fbdbc8c0778"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cupynumeric.download]]
-    sha256 = "9e0f9f48028d2f471672af1b9b09626fda3bcdc297855807adf3f99967dae50c"
-    url = "https://github.com/JuliaBinaryWrappers/cupynumeric_jll.jl/releases/download/cupynumeric-v26.1.0+1/cupynumeric.v26.1.0.x86_64-linux-gnu-cxx11-cuda+none.tar.gz"
+    sha256 = "c2e49f0a5db0ed5e3ec1d0c44b7f7a5490d1e4283d5146f52f20123e25c6b344"
+    url = "https://github.com/JuliaBinaryWrappers/cupynumeric_jll.jl/releases/download/cupynumeric-v26.6.0+0/cupynumeric.v26.6.0.x86_64-linux-gnu-cxx11-cuda+none.tar.gz"
 [[cupynumeric]]
 arch = "x86_64"
 cuda = "13.0"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ef6581bc9819b50b4a48a6f6a8dc646babb4218"
+git-tree-sha1 = "a9712ef3a5305a75ef14c4b40585bd157e97dfd9"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[cupynumeric.download]]
-    sha256 = "4460d4aace0c34fd816865f70fd4bebf3c7982f83878872a67f3333c6ba093c4"
-    url = "https://github.com/JuliaBinaryWrappers/cupynumeric_jll.jl/releases/download/cupynumeric-v26.1.0+1/cupynumeric.v26.1.0.x86_64-linux-gnu-cxx11-cuda+13.0.tar.gz"
+    sha256 = "a6005954b7964c84b8281dbd0c11815566349dfd8cab96b21dee980fbb64b2c2"
+    url = "https://github.com/JuliaBinaryWrappers/cupynumeric_jll.jl/releases/download/cupynumeric-v26.6.0+0/cupynumeric.v26.6.0.x86_64-linux-gnu-cxx11-cuda+13.0.tar.gz"
